@@ -14,7 +14,7 @@ namespace UberCaseStudy.Mapping
 
             CreateMap<Vehicle, GetVehicleDTO>();
             CreateMap<CreateVehicleDTO, Vehicle>();
-
+// pull test 
 
         }
     }
